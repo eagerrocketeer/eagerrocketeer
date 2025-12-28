@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**eagerrocketeer/eagerrocketeer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=mediaoverlord&color=86994f&label= RAINING +TACOS )
+ 
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    
+![](https://files.catbox.moe/dqu51u.png)
+
+[about me](https://rentry.co/remixingblitz)   [prns.cc](https://pronouns.cc/@rocket)
+
+</div>
